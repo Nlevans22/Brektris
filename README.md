@@ -14,3 +14,5 @@ is stored in a text file.
 
 The graphics of the game are a grid that is printed to the screen when the screen is called
 to update. 
+
+*requires pygame package
