@@ -11,3 +11,6 @@ them disapear and score points. If the foods stack to high then the game is over
 game is played and points are scored the block drop faster and faster until the game is 
 lost. After the game is over the player sees their score as well as the high score, which
 is stored in a text file. 
+
+The graphics of the game are a grid that is printed to the screen when the screen is called
+to update. 
